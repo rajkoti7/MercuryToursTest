@@ -1,0 +1,24 @@
+2019-03-17 18:34:35,635  INFO [main] LoginPageTest:33 - entering application URL
+2019-03-17 18:34:35,645  WARN [main] LoginPageTest:34 - Hey this just a warning message
+2019-03-17 18:34:35,645 FATAL [main] LoginPageTest:35 - hey this is just fatal error message
+2019-03-17 18:34:35,646 DEBUG [main] LoginPageTest:36 - this is debug message
+2019-03-17 18:34:35,647  INFO [main] LoginPageTest:61 - ****************************** starting test case *****************************************
+2019-03-17 18:34:35,649  INFO [main] LoginPageTest:62 - ****************************** MercuryToursTest *****************************************
+2019-03-17 18:34:37,508  INFO [main] LoginPageTest:64 - ****************************** ending test case *****************************************
+2019-03-17 18:34:37,508  INFO [main] LoginPageTest:65 - ****************************** MercuryToursTest *****************************************
+2019-03-17 18:34:42,384  INFO [main] LoginPageTest:33 - entering application URL
+2019-03-17 18:34:42,384  WARN [main] LoginPageTest:34 - Hey this just a warning message
+2019-03-17 18:34:42,385 FATAL [main] LoginPageTest:35 - hey this is just fatal error message
+2019-03-17 18:34:42,385 DEBUG [main] LoginPageTest:36 - this is debug message
+2019-03-17 18:34:42,386  INFO [main] LoginPageTest:42 - ****************************** starting test case *****************************************
+2019-03-17 18:34:42,386  INFO [main] LoginPageTest:43 - ****************************** MercuryToursTest *****************************************
+2019-03-17 18:34:42,395  INFO [main] LoginPageTest:46 - ****************************** ending test case *****************************************
+2019-03-17 18:34:42,396  INFO [main] LoginPageTest:47 - ****************************** MercuryToursTest *****************************************
+2019-03-17 18:35:15,728  INFO [main] LoginPageTest:33 - entering application URL
+2019-03-17 18:35:15,728  WARN [main] LoginPageTest:34 - Hey this just a warning message
+2019-03-17 18:35:15,728 FATAL [main] LoginPageTest:35 - hey this is just fatal error message
+2019-03-17 18:35:15,729 DEBUG [main] LoginPageTest:36 - this is debug message
+2019-03-17 18:35:15,729  INFO [main] LoginPageTest:52 - ****************************** starting test case *****************************************
+2019-03-17 18:35:15,730  INFO [main] LoginPageTest:53 - ****************************** MercuryToursTest *****************************************
+2019-03-17 18:35:15,778  INFO [main] LoginPageTest:56 - ****************************** ending test case *****************************************
+2019-03-17 18:35:15,780  INFO [main] LoginPageTest:57 - ****************************** MercuryToursTest *****************************************
